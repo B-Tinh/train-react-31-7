@@ -1,0 +1,48 @@
+
+.main-content{
+	width: 80%;
+	background-color: #fff;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 30px;
+	height: 585px;
+	box-shadow: 0 3px 3px -2px gray;
+
+}
+
+.between{
+	margin-bottom: 0px;
+	position: relative;
+}
+
+
+
+p.title{
+	position: absolute;
+	right : 15px;
+	top: 20px;
+	color: red;
+	font-weight: 400;
+	font-family: "Open Sans","Helvetica Neue","Helvetica","Arial","sans-serif" !important;
+}
+
+.menu{
+	position: absolute;
+	right : 15px;
+	top: 20px;
+	color: red;
+	font-weight: 400;
+	font-family: "Open Sans","Helvetica Neue","Helvetica","Arial","sans-serif" !important;
+	background-color: #49cbb1;
+	width: 50px;
+}
+
+.menu li a {
+
+	color: white;
+	text-align: center;
+}
+
+
+
